@@ -1,0 +1,35 @@
+ETL Project.
+Team Members
+	Aline Jaimes
+	Elizabeth Shaw
+	David Ayancoya
+ 
+                                                      FINAL REPORT
+                                             Open Data for the City of Houston
+
+MOTIVATION. 
+The open data website of the City of Houston has listed aproximately 250 datasets available to the public. 
+Most of these datasets are outdated our URLs are disabled. Our goal is to create a database of selected updated data sets 
+for the city of Houston
+
+METHODS.
+a. Each member of our team selected a dataset from different websites that focused on public schools, Texas commission of environmental quality, and ____. 
+
+URLs 
+1. http://data.houstontx.gov/dataset/public-schools-in-the-houston-region/resource/04da3864-8f59-4b0f-8611-1542b1584d6f
+2. https://www17.tceq.texas.gov/tamis/index.cfm?fuseaction=report.site_list
+3. 
+
+b. Because most of the data sources included state/national wide information, the data cleaning process consisted of droping columns of data that did not correspond to the city of Houston. 
+c. We explored both methods to export data into a database MongoDB and SQL. On a SQL database, our primary key is City of Houston, and Foreing Key street address, or county.
+
+RESULTS
+
+Our final results are contained in a repository called HTownPy. 
+- Codes
+	TECQ_DataV2 - Aline
+                    - David
+                    - Elizabeth
+        HtownPy     - All in one
+- Database
+
