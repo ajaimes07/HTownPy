@@ -2,7 +2,7 @@ ETL Project.
 Team Members
 Aline Jaimes
 Elizabeth Shaw
-David Ayancoya
+David Ayankoya
  
                                                  Proposal
 1.   	Title: Open Data for the City of Houston
