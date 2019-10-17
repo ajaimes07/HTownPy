@@ -1,8 +1,9 @@
-ETL Project.
+#ETL Project.
 
-                                                 Proposal
-Open Data for the City of Houston
-Motivation. Despite the City of Houston open data website has listed 250 datasets available to the public, these datasets are outdated and most of the URLs are disable.
+                                          # Open Data for the City of Houston
+                                          
+Motivation. City of Houston open data website has listed 250 datasets available to the public. These datasets are outdated and most of the URLs are disabled.
+
 Goal. Create a database of selected updated data sets for the city of Houston
 Methods.
 1.       Find data sources
