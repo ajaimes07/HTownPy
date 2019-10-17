@@ -2,11 +2,4 @@
 
                                           # Open Data for the City of Houston
                                           
-Motivation. City of Houston open data website has listed 250 datasets available to the public. These datasets are outdated and most of the URLs are disabled.
-
-Goal. Create a database of selected updated data sets for the city of Houston
-Methods.
-1.       Find data sources
-Each member of our team selected a dataset from different websites that focus on schools, Texas commission of environmental quality.
-2.       Clean-up and analysis
-In some cases, the data sources include data for the state of Texas, we are cleaning the data by selecting only the field pertinent to the city of Houston. Our primary key is City of Houston, zip code, or county.
+The open data website of the City of Houston has listed approximately 250 datasets available to the public. However, most of these datasets are outdated or URLs are disabled. Our goal is to create a database of selected updated data sets for the city of Houston.
